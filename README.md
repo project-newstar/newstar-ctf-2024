@@ -25,10 +25,9 @@ type Manifest = {
   id: number;
   name: string;
   description: string;
-  week: string;
-  category: string;
+  category: string[];
   author: string;
-  difficulty: string;
+  tags: string[];
   attachment: string[];
   environment: {
     image: string;     // remote image url, can use `docker pull` to download
