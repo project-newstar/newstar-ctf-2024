@@ -1,4 +1,4 @@
-# Week1 - Crypto
+# Crypto - Week1
 
 ## Base
 
