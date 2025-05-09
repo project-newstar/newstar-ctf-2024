@@ -28,8 +28,8 @@
 |-----|-----|-----|-----|
 | caef11 | 困难 | [newstar-2024:week4_yincangdemima](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week4_yincangdemima) | `8080` |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{d3350ef4-3b91-40e6-9d6a-2f0c8d33193e}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{d3350ef4-3b91-40e6-9d6a-2f0c8d33193e}</code>
 > </details>
 
 caef11 有一个自己的文件备份平台，但是平台的密码似乎在哪里泄露了……你能找到他吗？

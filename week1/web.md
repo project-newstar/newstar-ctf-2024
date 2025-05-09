@@ -6,8 +6,8 @@
 |-----|-----|-----|-----|
 | D0ubleD | 签到 | [newstar-2024:week1_headach3](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_headach3) | `80` |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{You_Ar3_R3Ally_A_9ooD_d0ctor}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{You_Ar3_R3Ally_A_9ooD_d0ctor}</code>
 > </details>
 
 头疼，帮我治治
@@ -18,8 +18,8 @@
 |-----|-----|-----|-----|
 | void2eye | 简单 | [newstar-2024:week1_huiyingde](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_huiyingde) | `3001` |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{WA0w!_y4_r3al1y_Gr4sP_JJJs!}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{WA0w!_y4_r3al1y_Gr4sP_JJJs!}</code>
 > </details>
 
 什么是控制台？js 又是什么？

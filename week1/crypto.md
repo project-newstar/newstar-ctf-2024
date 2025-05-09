@@ -6,8 +6,8 @@
 |-----|-----|
 | 6pc1 | 签到 |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{B@sE_0f_CrYpt0_N0W}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{B@sE_0f_CrYpt0_N0W}</code>
 > </details>
 
 This is a base question!
@@ -22,8 +22,8 @@ This is a base question!
 |-----|-----|-----|
 | Zechariah | 签到 | [xor.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/xor.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{0ops!_you_know_XOR!}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{0ops!_you_know_XOR!}</code>
 > </details>
 
 如果再来一次的话，就能回到从前，一切都会好起来的😭
@@ -34,8 +34,8 @@ This is a base question!
 |-----|-----|-----|
 | jingyi | 简单 | [yiyanmiaole.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/yiyanmiaole.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{9cd4b35a-affc-422a-9862-58e1cc3ff8d2}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{9cd4b35a-affc-422a-9862-58e1cc3ff8d2}</code>
 > </details>
 
 $n$ 小小的也很可爱
@@ -46,8 +46,8 @@ $n$ 小小的也很可爱
 |-----|-----|
 | Zechariah | 简单 |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{PleaseDoNotStopLearing}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{PleaseDoNotStopLearing}</code>
 > </details>
 
 某喜欢抽锐刻 5 的皇帝想每天进步一些，直到他娶了个模，回到原点，全部白给😅

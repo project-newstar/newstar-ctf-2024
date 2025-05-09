@@ -6,8 +6,8 @@
 |-----|-----|-----|
 | PangBai | 简单 | [AmazingGame_1.0.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/AmazingGame_1.0.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{U_W1n!!_7he_g@m4}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{U_W1n!!_7he_g@m4}</code>
 > </details>
 
 出题人们都好狠啊，题做累了不如来玩玩游戏吧，还有就是，安卓软件私有数据会放在哪？（游戏至少通过一个关卡才会有存档）
@@ -18,8 +18,8 @@
 |-----|-----|-----|
 | 1b5lda | 简单 | [BGM.31693E4A.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/BGM.31693E4A.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{2024093020241103}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{2024093020241103}</code>
 > </details>
 
 刚想听一篇推文，但是 bgm 吵死了，我忍了又忍，摈除杂音仔细听，up 难道在拨号吗？（以 `flag{}` 形式提交）
@@ -30,8 +30,8 @@
 |-----|-----|-----|
 | w3nx1z1 | 简单 | [OSINT-MASTER.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/OSINT-MASTER.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{MU5156_济宁市}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{MU5156_济宁市}</code>
 > </details>
 
 我重生了，这一世我是 osint 带师，我一定要找到之前坐过的那架航班！

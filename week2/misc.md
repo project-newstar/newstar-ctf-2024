@@ -6,8 +6,8 @@
 |-----|-----|-----|
 | unk | 签到 | [wireshark_checkin.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_checkin.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{ez_traffic_analyze_isn't_it}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{ez_traffic_analyze_isn't_it}</code>
 > </details>
 
 un 搭建了一个简单的 http 服务器，但是不小心把重要文件删除了，只剩下访问这些文件时的流量，你能帮他找到吗
@@ -18,8 +18,8 @@ un 搭建了一个简单的 http 服务器，但是不小心把重要文件删�
 |-----|-----|-----|
 | findkey | 简单 | [yuanshen.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{maybegenshinisagoodgame}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{maybegenshinisagoodgame}</code>
 > </details>
 
 如果你玩原神，那么你看得懂这些提瓦特文字吗?请把得到的内容用 `flag{}` 包裹
@@ -30,8 +30,8 @@ un 搭建了一个简单的 http 服务器，但是不小心把重要文件删�
 |-----|-----|-----|
 | Lufiende | 简单 | [xiaoming_w2.txt](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/xiaoming_w2.txt) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{ZDFyVDlfdTNlUl9wNHNTdzByRF9IQUNLRVIh}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{ZDFyVDlfdTNlUl9wNHNTdzByRF9IQUNLRVIh}</code>
 > </details>
 
 小明的邻居小红忘记了电脑的登录密码，好像设置的还挺复杂的，现在小红手里只有一个内存镜像（为什么她会有这个？），小明为了帮助邻居就找到了精通电脑的你……
@@ -42,8 +42,8 @@ un 搭建了一个简单的 http 服务器，但是不小心把重要文件删�
 |-----|-----|
 | Zechariah | 简单 |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{6c3ea51b6f9d4f5e}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{6c3ea51b6f9d4f5e}</code>
 > </details>
 
 漂亮国也干了。照着 2024 年 7 月 8 日央视新闻的方法来看看隐匿在图片下的东西吧.
@@ -62,8 +62,8 @@ PS: 如果你眼力好，肉眼能从视频读出来，也是你的水平。祝�
 |-----|-----|-----|
 | unk | 简单 | [wireshark_secret.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_secret.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{you_are_gooddddd}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{you_are_gooddddd}</code>
 > </details>
 
 un 偷看涩图，被抓到流量了
@@ -74,8 +74,8 @@ un 偷看涩图，被抓到流量了
 |-----|-----|-----|
 | Red Orange | 中等 | [secretofwords.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/secretofwords.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{you_h4ve_4nyth1n9}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{you_h4ve_4nyth1n9}</code>
 > </details>
 
 我横竖睡不着，仔细看了半夜，才从字缝里看出字来
@@ -86,8 +86,8 @@ un 偷看涩图，被抓到流量了
 |-----|-----|-----|
 | endprophet | 中等 | [Hertas_Study.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Hertas_Study.zip) |
 
-> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
-> `flag{sH3_i4_S0_6eAut1fuL.}`
+> <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
+> <code>flag{sH3_i4_S0_6eAut1fuL.}</code>
 > </details>
 
 黑塔女士在进行一项新的研究，她截获了银狼作为新手黑客时的渗透流量，不过这小家伙喜欢整点新花样。「在战场上，如果我牺牲了，我不希望我的代码被敌人轻易使用。」
