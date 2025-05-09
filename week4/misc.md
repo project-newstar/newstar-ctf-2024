@@ -28,9 +28,9 @@ Tip: flag 包含非 ASCII 字符，且语义较为通顺
 
 ## ezblockchain
 
-| 出题人 | 难度 |
-|-----|-----|
-| lrhtony | 简单 |
+| 出题人 | 难度 | 环境 |
+|-----|-----|-----|
+| lrhtony | 简单 | 本题暂时无法提供环境 |
 
 > <details><summary><strong>FLAG:</strong> <i>点此展开/收起</i></summary>
 > <code>flag{b10ckch@1n_15_r3@lly_1nt3r35t1ng!}</code>
