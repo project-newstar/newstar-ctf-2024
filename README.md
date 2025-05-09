@@ -12,7 +12,7 @@ You can view the challenge details in each `week?` directory:
 
 You can download challenge images at [openctf/newstar-2024](https://hub.docker.com/r/openctf/newstar-2024) on Docker Hub.
 
-You can download challenge attachments at Github Release page of this repository.
+You can download challenge attachments at [Github Release](https://github.com/project-newstar/newstar-ctf-2024/releases/tag/attachment) page of this repository.
 
 ## Manifest
 
@@ -39,7 +39,8 @@ interface Manifest {
 }[]
 ```
 
-Note that dynamic flag requires you to pass environment variables `ICQ_FLAG` to the container when starting it.
+> [!IMPORTANT]
+> Dynamic flag requires you to pass environment variables `ICQ_FLAG` to the container when starting it.
 
 The manifest file may help you to deploy the whole CTF game on your system.
 
