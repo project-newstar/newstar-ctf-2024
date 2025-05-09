@@ -21,7 +21,7 @@ All the metadata, images, attachments of challenges, are presented at [manifest.
 It has the following structure:
 
 ```typescript
-interface Manifest {
+type Manifest = {
   id: number;
   name: string;
   description: string;
@@ -36,7 +36,7 @@ interface Manifest {
     type: "tcp" | "http"
   }[];
   flag: string | null; // `null` means dynamic flag
-}[]
+}[];
 ```
 
 > [!IMPORTANT]
