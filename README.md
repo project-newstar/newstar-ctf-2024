@@ -1,4 +1,4 @@
-# Archives of NewStar CTF 2024
+# NewStar CTF 2024
 
 This repository is the archive of [NewStar CTF 2024](https://newstar.wiki/guide/2024/).
 
