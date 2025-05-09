@@ -1,10 +1,13 @@
-/.vscode/
-/.idea/
-/.DS_Store/
-/*.sublime-workspace
-/*.sublime-project
+.vscode/
+.idea/
+.DS_Store/
+*.sublime-workspace
+*.sublime-project
 
-/node_modules/
+node_modules/
 
 .env
 .env.*.local
+
+.cache/
+.workspace/
