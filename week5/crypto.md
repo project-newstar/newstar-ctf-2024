@@ -2,25 +2,25 @@
 
 ## easy_ecc
 
-> 出题人：jingyi
->
-> 难度：简单
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| jingyi | 简单 | [easy_ecc.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/easy_ecc.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{This_is_the_last_crypto_}`
+> </details>
 
 简单的椭圆曲线密码入门
 
-## 没 e 也能玩
+## RSA? cmd5!
 
-> 出题人：jingyi
->
-> 难度：中等
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| saga131 | 简单 | [RSAcmd5.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAcmd5.zip) |
 
-哎，不是哥们，没 $e$ 居然也能玩
-
-## RSA? cmd5! 
-
-> 出题人：saga131
->
-> 难度：简单
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{th1s_1s_my_k3y:adm0n120xbfab06114aa460b85135659e359fe443f9d91950ca95cbb2cbd6f88453e2b08b}`
+> </details>
 
 应该都了解 RSA 解密原理了吧？
 
@@ -28,19 +28,27 @@ Alice: 你把服务器密码用 RSA 加密给我发过来吧，记得带上签�
 
 Bob: 好麻烦，还要签名，算了，直接 MD5 签名一下就好了吧！
 
-## 格格你好棒
+## 没 e 也能玩
 
-> 出题人：saga131
->
-> 难度：困难
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| jingyi | 中等 | [no_e_w5.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/no_e_w5.zip) |
 
-连 $n$ 都没有给的 RSA？！！！快去求救格哥哥！
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{No_course_e_can_play}`
+> </details>
+
+哎，不是哥们，没 $e$ 居然也能玩
 
 ## 学以致用
 
-> 出题人：Zechariah
->
-> 难度：中等
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| Zechariah | 中等 | [learn_and_use.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/learn_and_use.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{W1Sh_you_Bec0me_an_excelL3nt_crypt0G2@pher}`
+> </details>
 
 —— 帮帮我，sagemath 先生，TAT
 
@@ -51,3 +59,15 @@ Bob: 好麻烦，还要签名，算了，直接 MD5 签名一下就好了吧！
 <https://doc.sagemath.org/html/en/reference/>
 
 24 新生 NewStar 同学，考验你自学与运用能力的时刻到了！（不加难度，最后一周给大家放松一下了）
+
+## 格格你好棒
+
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| saga131 | 困难 | [RSAgege.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAgege.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{u_are_@_master_of_latt1ce_Crypt0gr@phy}`
+> </details>
+
+连 $n$ 都没有给的 RSA？！！！快去求救格哥哥！

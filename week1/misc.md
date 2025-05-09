@@ -1,10 +1,64 @@
 # Week1 - Misc
 
+## decompress（校内赛道）
+
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| yixinBC | 签到 | [decompress.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{c6edaba55bac51875a215e2de11c35dd}`
+> </details>
+
+正在失传的技艺之压缩包解压
+
+注：请把解压的结果再计算 32 位小写 MD5 后包上 `flag{}` 提交
+
+## pleasingMusic
+
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| Sethos | 签到 | [pleasingMusic.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/pleasingMusic.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{ez_morse_code}`
+> </details>
+
+一首歌可以好听到正反都好听（以 `flag{}` 形式提交，所有英文字母均为小写）
+
+## 兑换码
+
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| Sethos | 简单 | [duihuanma.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{La_vaguelette}`
+> </details>
+
+领取 NewStar 前瞻兑换码，明天中午 12 点就失效喽！就在图片下面。什么，你没有看到？原来是 png 的下面啊，那没事了。
+
+## decompress（公开赛道）
+
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| yixinBC | 简单 | [decompress_3C4D6F9291D1FFF7.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress_3C4D6F9291D1FFF7.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{U_R_th3_ma5ter_0f_dec0mpress}`
+> </details>
+
+正在失传的技艺之压缩包解压
+
 ## Labyrinth
 
-> 出题人：MonianHello
->
-> 难度：简单
+| 出题人 | 难度 | 附件 |
+|-----|-----|-----|
+| MonianHello | 简单 | [Labyrinth.zip](https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip) |
+
+> <details><summary><strong>FLAG:</strong> <i>点此展开</i></summary>
+> `flag{e33bb7a1-ac94-4d15-8ff7-fd8c88547b43}`
+> </details>
 
 听好了：9 月 23 日，NewStar 2024
 
@@ -18,44 +72,13 @@
 
 `#newstar#` `#LSB#` `#听好了#`
 
-## 兑换码
-
-> 出题人：Sethos
->
-> 难度：简单
-
-领取 NewStar 前瞻兑换码，明天中午 12 点就失效喽！就在图片下面。什么，你没有看到？原来是 png 的下面啊，那没事了。
-
-## decompress（公开赛道）
-
-> 出题人：yixinBC
->
-> 难度：简单
-
-正在失传的技艺之压缩包解压
-
-## pleasingMusic
-
-> 出题人：Sethos
->
-> 难度：签到
-
-一首歌可以好听到正反都好听（以 `flag{}` 形式提交，所有英文字母均为小写）
-
-## decompress（校内赛道）
-
-> 出题人：yixinBC
->
-> 难度：签到
-
-正在失传的技艺之压缩包解压
-
-注：请把解压的结果再计算 32 位小写 MD5 后包上 `flag{}` 提交
-
 ## WhereIsFlag
 
-> 出题人：yixinBC
->
-> 难度：简单
+| 出题人 | 难度 | 环境镜像 | 端口 |
+|-----|-----|-----|-----|
+| yixinBC | 简单 | [newstar-2024:week1_whereisflag](https://hub.docker.com/r/openctf/newstar-2024/tags?name=week1_whereisflag) | `9999` |
+
+> <details><summary><strong>FLAG:</strong> 动态</summary>
+> </details>
 
 才……才不会告诉你我把 flag 藏在哪里了！
