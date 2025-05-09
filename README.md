@@ -10,9 +10,38 @@ You can view the challenge details in each `week?` directory:
 - [Week 4](./week4)
 - [Week 5](./week5)
 
-You can download challenge docker images at [openctf/2024newstar](https://hub.docker.com/r/openctf/2024newstar) on Docker Hub.
+You can download challenge images at [openctf/newstar-2024](https://hub.docker.com/r/openctf/newstar-2024) on Docker Hub.
 
 You can download challenge attachments at Github Release page of this repository.
+
+## Manifest
+
+All the metadata, images, attachments of challenges, are presented at [manifest.json](./manifest.json).
+
+It has the following structure:
+
+```typescript
+interface Manifest {
+  id: number;
+  name: string;
+  description: string;
+  week: string;
+  category: string;
+  author: string;
+  difficulty: string;
+  attachment: string[];
+  environment: {
+    image: string;     // remote image url, can use `docker pull` to download
+    ports: number[];   // ports to be exposed in the container
+    type: "tcp" | "http"
+  }[];
+  flag: string | null; // `null` means dynamic flag
+}[]
+```
+
+Note that dynamic flag requires you to pass environment variables `ICQ_FLAG` to the container when starting it.
+
+The manifest file may help you to deploy the whole CTF game on your system.
 
 ## License
 
