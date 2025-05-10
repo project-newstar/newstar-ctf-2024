@@ -43,7 +43,7 @@ type Metapack = Metadata[];
 > [!IMPORTANT]
 > Dynamic flag requires you to pass environment variables `ICQ_FLAG` to the container when starting it.
 
-The manifest file may help you to deploy the whole CTF game on your system.
+The metapack file may help you to deploy the whole CTF game on your system.
 
 ## License
 
