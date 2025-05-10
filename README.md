@@ -14,14 +14,14 @@ You can download challenge images at [openctf/newstar-2024](https://hub.docker.c
 
 You can download challenge attachments at [Github Release](https://github.com/project-newstar/newstar-ctf-2024/releases/tag/attachment) page of this repository.
 
-## Manifest
+## Metapack
 
-All the metadata, images, attachments of challenges, are presented at [manifest.json](./manifest.json).
+All the metadata, images, attachments of challenges, are presented at [metapack.json](./metapack.json).
 
 It has the following structure:
 
 ```typescript
-type Manifest = {
+interface Metadata {
   id: number;
   name: string;
   description: string;
@@ -36,6 +36,8 @@ type Manifest = {
   }[];
   flag: string | null; // `null` means dynamic flag
 }[];
+
+type Metapack = Metadata[];
 ```
 
 > [!IMPORTANT]
