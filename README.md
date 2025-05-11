@@ -22,12 +22,12 @@ It has the following structure:
 
 ```typescript
 interface Metadata {
-  id: number;
+  id: number | string; // must be unique
   name: string;
   description: string;
   category: string[];
-  author: string;
   tags: string[];
+  author: string;
   attachment: string[];
   environment: {
     image: string;     // remote image url, can use `docker pull` to download
@@ -35,6 +35,8 @@ interface Metadata {
     type: "tcp" | "http"
   }[];
   flag: string | null; // `null` means dynamic flag
+  // extra fields, can be customized according to specific needs
+  extra?: Record<string, any>;
 }[];
 
 type Metapack = Metadata[];
