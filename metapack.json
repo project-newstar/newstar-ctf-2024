@@ -6,8 +6,8 @@
     "category": ["Week1", "Crypto"],
     "tags": ["Week1", "Crypto"],
     "author": "6pc1",
-    "attachment": [],
-    "environment": [],
+    "attachments": [],
+    "services": [],
     "flag": "flag{B@sE_0f_CrYpt0_N0W}"
   },
   {
@@ -17,8 +17,8 @@
     "category": ["Week1", "Crypto"],
     "tags": ["Week1", "Crypto"],
     "author": "Zechariah",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/xor.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/xor.zip"],
+    "services": [],
     "flag": "flag{0ops!_you_know_XOR!}"
   },
   {
@@ -28,10 +28,10 @@
     "category": ["Week1", "Crypto"],
     "tags": ["Week1", "Crypto"],
     "author": "jingyi",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/yiyanmiaole.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{9cd4b35a-affc-422a-9862-58e1cc3ff8d2}"
   },
   {
@@ -41,8 +41,8 @@
     "category": ["Week1", "Crypto"],
     "tags": ["Week1", "Crypto"],
     "author": "Zechariah",
-    "attachment": [],
-    "environment": [],
+    "attachments": [],
+    "services": [],
     "flag": "flag{PleaseDoNotStopLearing}"
   },
   {
@@ -52,10 +52,10 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "yixinBC",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{c6edaba55bac51875a215e2de11c35dd}"
   },
   {
@@ -65,10 +65,10 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "Sethos",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/pleasingMusic.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{ez_morse_code}"
   },
   {
@@ -78,10 +78,10 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "Sethos",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/duihuanma.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{La_vaguelette}"
   },
   {
@@ -91,10 +91,10 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "yixinBC",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/decompress_3C4D6F9291D1FFF7.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{U_R_th3_ma5ter_0f_dec0mpress}"
   },
   {
@@ -104,10 +104,10 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "MonianHello",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/Labyrinth.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{e33bb7a1-ac94-4d15-8ff7-fd8c88547b43}"
   },
   {
@@ -117,8 +117,8 @@
     "category": ["Week1", "Misc"],
     "tags": ["Week1", "Misc"],
     "author": "yixinBC",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_whereisflag",
         "ports": [9999],
@@ -134,8 +134,8 @@
     "category": ["Week1", "Pwn"],
     "tags": ["Week1", "Pwn"],
     "author": "korey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/game.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/game.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_game",
         "ports": [9999],
@@ -151,8 +151,8 @@
     "category": ["Week1", "Pwn"],
     "tags": ["Week1", "Pwn"],
     "author": "korey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/nc.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/nc.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_real_login",
         "ports": [9999],
@@ -168,8 +168,8 @@
     "category": ["Week1", "Pwn"],
     "tags": ["Week1", "Pwn"],
     "author": "inkey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/gdb.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/gdb.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_gdb",
         "ports": [9999],
@@ -185,10 +185,10 @@
     "category": ["Week1", "Pwn"],
     "tags": ["Week1", "Pwn"],
     "author": "korey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/overwrite.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_overwrite",
         "ports": [9999],
@@ -204,8 +204,8 @@
     "category": ["Week1", "Reverse"],
     "tags": ["Week1", "Reverse"],
     "author": "tgrddf55",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/begin.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/begin.zip"],
+    "services": [],
     "flag": "flag{Mak3_aN_3Ff0rt_tO_5eArcH_F0r_th3_f14g_C0Rpse}"
   },
   {
@@ -215,8 +215,8 @@
     "category": ["Week1", "Reverse"],
     "tags": ["Week1", "Reverse"],
     "author": "0xA1pha",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/base64.zip"],
+    "services": [],
     "flag": "flag{y0u_kn0w_base64_well}"
   },
   {
@@ -226,10 +226,10 @@
     "category": ["Week1", "Reverse"],
     "tags": ["Week1", "Reverse"],
     "author": "kw17",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/ez_debug.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{y0u_ar3_g0od_@_Debu9}"
   },
   {
@@ -239,10 +239,10 @@
     "category": ["Week1", "Reverse"],
     "tags": ["Week1", "Reverse"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/ezAndroidStudy.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{Y0u_@r4_900d_andr01d_r4V4rs4r}"
   },
   {
@@ -252,10 +252,10 @@
     "category": ["Week1", "Reverse"],
     "tags": ["Week1", "Reverse"],
     "author": "tgrddf55",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week1/Simple_encryption.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{IT_15_R3Al1y_V3Ry-51Mp1e}"
   },
   {
@@ -265,8 +265,8 @@
     "category": ["Week1", "Web"],
     "tags": ["Week1", "Web"],
     "author": "D0ubleD",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_headach3",
         "ports": [80],
@@ -282,8 +282,8 @@
     "category": ["Week1", "Web"],
     "tags": ["Week1", "Web"],
     "author": "void2eye",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_huiyingde",
         "ports": [3001],
@@ -299,8 +299,8 @@
     "category": ["Week1", "Web"],
     "tags": ["Week1", "Web"],
     "author": "D0ubleD",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_zhixieweiji",
         "ports": [80],
@@ -316,8 +316,8 @@
     "category": ["Week1", "Web"],
     "tags": ["Week1", "Web"],
     "author": "Cnily03",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_pangbai1",
         "ports": [3000],
@@ -333,8 +333,8 @@
     "category": ["Week1", "Web"],
     "tags": ["Week1", "Web"],
     "author": "fr3e3",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week1_pidan",
         "ports": [80],
@@ -350,10 +350,10 @@
     "category": ["Week2", "Crypto"],
     "tags": ["Week2", "Crypto"],
     "author": "coperlm",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/chalichaqi.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{f14gg9_te2_1i_7ea_7}"
   },
   {
@@ -363,8 +363,8 @@
     "category": ["Week2", "Crypto"],
     "tags": ["Week2", "Crypto"],
     "author": "saga131",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/yihuo.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/yihuo.zip"],
+    "services": [],
     "flag": "flag{yihuo_yuan_lai_xian_ji_suan_liang_bian_de2333}"
   },
   {
@@ -374,10 +374,10 @@
     "category": ["Week2", "Crypto"],
     "tags": ["Week2", "Crypto"],
     "author": "Zechariah",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Since_you_konw_something.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{Y0u_kn0w_th3_X0r_b3tt3r}"
   },
   {
@@ -387,10 +387,10 @@
     "category": ["Week2", "Crypto"],
     "tags": ["Week2", "Crypto"],
     "author": "Zechariah",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/one_and_more.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{Y0u_re4lly_kn0w_Euler_4nd_N3xt_Eu1er_is_Y0u!}"
   },
   {
@@ -400,10 +400,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "unk",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_checkin.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{ez_traffic_analyze_isn't_it}"
   },
   {
@@ -413,10 +413,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "findkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/yuanshen.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{maybegenshinisagoodgame}"
   },
   {
@@ -426,10 +426,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "Lufiende",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/xiaoming_w2.txt"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{ZDFyVDlfdTNlUl9wNHNTdzByRF9IQUNLRVIh}"
   },
   {
@@ -439,8 +439,8 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "Zechariah",
-    "attachment": [],
-    "environment": [],
+    "attachments": [],
+    "services": [],
     "flag": "flag{6c3ea51b6f9d4f5e}"
   },
   {
@@ -450,10 +450,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "unk",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/wireshark_secret.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{you_are_gooddddd}"
   },
   {
@@ -463,10 +463,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "Red Orange",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/secretofwords.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{you_h4ve_4nyth1n9}"
   },
   {
@@ -476,10 +476,10 @@
     "category": ["Week2", "Misc"],
     "tags": ["Week2", "Misc"],
     "author": "endprophet",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Hertas_Study.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{sH3_i4_S0_6eAut1fuL.}"
   },
   {
@@ -489,8 +489,8 @@
     "category": ["Week2", "Pwn"],
     "tags": ["Week2", "Pwn"],
     "author": "korey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_fmt.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_fmt.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_ezfmt",
         "ports": [9999],
@@ -506,10 +506,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["Week2", "Pwn"],
     "author": "a1te",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/ez_game.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_ez_game",
         "ports": [9999],
@@ -525,10 +525,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["Week2", "Pwn"],
     "author": "0xAkyOI",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Inverted_World.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_inverted_world",
         "ports": [9999],
@@ -544,8 +544,8 @@
     "category": ["Week2", "Pwn"],
     "tags": ["Week2", "Pwn"],
     "author": "inkey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/My_GBC.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/My_GBC.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_mygbc",
         "ports": [9999],
@@ -561,10 +561,10 @@
     "category": ["Week2", "Pwn"],
     "tags": ["Week2", "Pwn"],
     "author": "0xAkyOI",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Bad_Asm.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_bad_asm",
         "ports": [9999],
@@ -580,10 +580,10 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "tgrddf55",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Dirty_flowers.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{A5s3mB1y_1s_r3ally_funDAm3nta1}"
   },
   {
@@ -593,10 +593,10 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "Chovy",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/drink_tea.rar"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{There_R_TEA_XTEA_and_XXTEA}"
   },
   {
@@ -606,10 +606,10 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "straw",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/pangbai-terra1.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{my_D3bugg3r_may_1s_banned?}"
   },
   {
@@ -619,8 +619,8 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "nuthecz",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/UPX.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/UPX.zip"],
+    "services": [],
     "flag": "flag{Do_you_know_UPX?}"
   },
   {
@@ -630,10 +630,10 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/ezencrypt.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{0hh_U_kn0w_7h15_5ki11}"
   },
   {
@@ -643,8 +643,8 @@
     "category": ["Week2", "Reverse"],
     "tags": ["Week2", "Reverse"],
     "author": "nuthecz",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week2/Ptrace.zip"],
+    "services": [],
     "flag": "flag{Do_you_really_know_ptrace?}"
   },
   {
@@ -654,8 +654,8 @@
     "category": ["Week2", "Web"],
     "tags": ["Week2", "Web"],
     "author": "MonianHello",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_bajuyingwen",
         "ports": [80],
@@ -671,8 +671,8 @@
     "category": ["Week2", "Web"],
     "tags": ["Week2", "Web"],
     "author": "AsaL1n",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_fuduji",
         "ports": [80],
@@ -688,8 +688,8 @@
     "category": ["Week2", "Web"],
     "tags": ["Week2", "Web"],
     "author": "AsaL1n",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_yishidelalian",
         "ports": [80],
@@ -705,8 +705,8 @@
     "category": ["Week2", "Web"],
     "tags": ["Week2", "Web"],
     "author": "fr3e3",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_pidan_plus",
         "ports": [80],
@@ -722,8 +722,8 @@
     "category": ["Week2", "Web"],
     "tags": ["Week2", "Web"],
     "author": "Cnily03",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week2_pangbai2",
         "ports": [80],
@@ -739,10 +739,10 @@
     "category": ["Week3", "Crypto"],
     "tags": ["Week3", "Crypto"],
     "author": "Zechariah",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/no_thank.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{HOw_c4REfu1Ly_yOu_O65ERve!}"
   },
   {
@@ -752,10 +752,10 @@
     "category": ["Week3", "Crypto"],
     "tags": ["Week3", "Crypto"],
     "author": "vil10n",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory1.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{b14375358eabfea4e405bd2186936289}"
   },
   {
@@ -765,8 +765,8 @@
     "category": ["Week3", "Crypto"],
     "tags": ["Week3", "Crypto"],
     "author": "coperlm",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/no_e.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/no_e.zip"],
+    "services": [],
     "flag": "flag{th1s_2s_A_rea119_f34ggg}"
   },
   {
@@ -776,10 +776,10 @@
     "category": ["Week3", "Crypto"],
     "tags": ["Week3", "Crypto"],
     "author": "vil10n",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/newstory2.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{8bc383165248f2e45a6910960a61e6a8}"
   },
   {
@@ -789,10 +789,10 @@
     "category": ["Week3", "Crypto"],
     "tags": ["Week3", "Crypto"],
     "author": "lxdy3361mm0",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/two_oriole.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{V_me_the_flag}"
   },
   {
@@ -802,10 +802,10 @@
     "category": ["Week3", "Misc"],
     "tags": ["Week3", "Misc"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/AmazingGame_1.0.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{U_W1n!!_7he_g@m4}"
   },
   {
@@ -815,10 +815,10 @@
     "category": ["Week3", "Misc"],
     "tags": ["Week3", "Misc"],
     "author": "1b5lda",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/BGM.31693E4A.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{2024093020241103}"
   },
   {
@@ -828,10 +828,10 @@
     "category": ["Week3", "Misc"],
     "tags": ["Week3", "Misc"],
     "author": "w3nx1z1",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/OSINT-MASTER.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{MU5156_济宁市}"
   },
   {
@@ -841,10 +841,10 @@
     "category": ["Week3", "Misc"],
     "tags": ["Week3", "Misc"],
     "author": "yixinBC",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/ez_jail.0CA949E649954551.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_ez_jail",
         "ports": [9999],
@@ -860,8 +860,8 @@
     "category": ["Week3", "Pwn"],
     "tags": ["Week3", "Pwn"],
     "author": "inkey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/scanf.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/scanf.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_scanf",
         "ports": [9999],
@@ -877,10 +877,10 @@
     "category": ["Week3", "Pwn"],
     "tags": ["Week3", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/Easy_Shellcode.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_easy_shellcode",
         "ports": [9999],
@@ -896,10 +896,10 @@
     "category": ["Week3", "Pwn"],
     "tags": ["Week3", "Pwn"],
     "author": "qy",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/ezcanary.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_ezcanary",
         "ports": [80],
@@ -915,10 +915,10 @@
     "category": ["Week3", "Pwn"],
     "tags": ["Week3", "Pwn"],
     "author": "0xAkyOI",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/One_Last_B1te.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_one_last_b1te",
         "ports": [9999],
@@ -934,10 +934,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "路人甲",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/what_name.7z"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{WH47_C4N_1_54y???}"
   },
   {
@@ -947,10 +947,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "0xA1pha",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/pangbai3.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{Y0u_Know_Py1nstall3r_W311!}"
   },
   {
@@ -960,10 +960,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "tgrddf55",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/SMc_math.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{D0_Y0u_Kn0w_sMC_4nD_Z3}"
   },
   {
@@ -973,8 +973,8 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "kw17",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/011vm.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/011vm.zip"],
+    "services": [],
     "flag": "flag{011vm_1s_eZ_But_C0MP1EX_!!}"
   },
   {
@@ -984,10 +984,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "tgrddf55",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/flowering_shrubs.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{y0u_C4n_3a51ly_Rem0v3_CoNfu510n-!!}"
   },
   {
@@ -997,10 +997,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "nuthecz",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/simpleAndroid.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{android_is_simple!}"
   },
   {
@@ -1010,10 +1010,10 @@
     "category": ["Week3", "Reverse"],
     "tags": ["Week3", "Reverse"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week3/SecretsOfKawaii.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{U_D0_Kn0w_Kawa11_P@n9_B@1}"
   },
   {
@@ -1023,8 +1023,8 @@
     "category": ["Week3", "Web"],
     "tags": ["Week3", "Web"],
     "author": "void2eye",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_ccb",
         "ports": [30003],
@@ -1040,8 +1040,8 @@
     "category": ["Week3", "Web"],
     "tags": ["Week3", "Web"],
     "author": "unk",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_blindsql1",
         "ports": [80],
@@ -1057,8 +1057,8 @@
     "category": ["Week3", "Web"],
     "tags": ["Week3", "Web"],
     "author": "void2eye",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_choupidecalc",
         "ports": [80],
@@ -1074,8 +1074,8 @@
     "category": ["Week3", "Web"],
     "tags": ["Week3", "Web"],
     "author": "Ewoji",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_include_me",
         "ports": [80],
@@ -1091,8 +1091,8 @@
     "category": ["Week3", "Web"],
     "tags": ["Week3", "Web"],
     "author": "D0ubleD",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week3_zhezhaopianshinima",
         "ports": [5000],
@@ -1108,10 +1108,10 @@
     "category": ["Week4", "Crypto"],
     "tags": ["Week4", "Crypto"],
     "author": "saga131",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/task_euler.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{y0u_really_kn0w_the_phi}"
   },
   {
@@ -1121,8 +1121,8 @@
     "category": ["Week4", "Crypto"],
     "tags": ["Week4", "Crypto"],
     "author": "vil10n",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/sage.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/sage.zip"],
+    "services": [],
     "flag": "flag{small_dp_is_not_secure_adhfaiuhaph}"
   },
   {
@@ -1132,8 +1132,8 @@
     "category": ["Week4", "Crypto"],
     "tags": ["Week4", "Crypto"],
     "author": "Zechariah",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/InName.zip"],
+    "services": [],
     "flag": "flag{rE@L_d@m@9e_15_7h3_mo5t_au7hEn7ic_dam49E}"
   },
   {
@@ -1143,8 +1143,8 @@
     "category": ["Week4", "Misc"],
     "tags": ["Week4", "Misc"],
     "author": "CH0ico",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/CRC.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/CRC.zip"],
+    "services": [],
     "flag": "flag{Then_d0_you_kn0w_w6at_Hanx1n_cod3_1s?}"
   },
   {
@@ -1154,8 +1154,8 @@
     "category": ["Week4", "Misc"],
     "tags": ["Week4", "Misc"],
     "author": "yixinBC",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/Alt.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/Alt.zip"],
+    "services": [],
     "flag": "flag{键盘流量_with_alt_和窗户_15_5o0OO0o_酷}"
   },
   {
@@ -1165,8 +1165,8 @@
     "category": ["Week4", "Misc"],
     "tags": ["Week4", "Misc"],
     "author": "lrhtony",
-    "attachment": [],
-    "environment": [],
+    "attachments": [],
+    "services": [],
     "flag": "flag{b10ckch@1n_15_r3@lly_1nt3r35t1ng!}",
     "extra": {
       "hidden": true,
@@ -1180,10 +1180,10 @@
     "category": ["Week4", "Misc"],
     "tags": ["Week4", "Misc"],
     "author": "Lufiende",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_encrypt.txt"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{5ZCb44Gv5Y+W6K+B5pys5b2T44Gr5LiK5omL}"
   },
   {
@@ -1193,10 +1193,10 @@
     "category": ["Week4", "Misc"],
     "tags": ["Week4", "Misc"],
     "author": "Lufiende",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/xiaoming_music.txt"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{wowgoodfzforensics}"
   },
   {
@@ -1206,10 +1206,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["Week4", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/Sign_in.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_signin",
         "ports": [9999],
@@ -1225,10 +1225,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["Week4", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/Maze_Rust.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_mazerust",
         "ports": [9999],
@@ -1244,8 +1244,8 @@
     "category": ["Week4", "Pwn"],
     "tags": ["Week4", "Pwn"],
     "author": "korey",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/reread.zip"],
-    "environment": [
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/reread.zip"],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_reread",
         "ports": [9999],
@@ -1261,10 +1261,10 @@
     "category": ["Week4", "Pwn"],
     "tags": ["Week4", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/MakeHero.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_makehero",
         "ports": [9999],
@@ -1280,10 +1280,10 @@
     "category": ["Week4", "Reverse"],
     "tags": ["Week4", "Reverse"],
     "author": "tgrddf55",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/easygui_2.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{GU!_r3v3R5e_3nG1n3er1ng_i5_v3ry_s1mpl3}"
   },
   {
@@ -1293,8 +1293,8 @@
     "category": ["Week4", "Reverse"],
     "tags": ["Week4", "Reverse"],
     "author": "ATRI",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezrust.zip"],
+    "services": [],
     "flag": "flag{y0U_@r3_90od_@t_rust}"
   },
   {
@@ -1304,8 +1304,8 @@
     "category": ["Week4", "Reverse"],
     "tags": ["Week4", "Reverse"],
     "author": "tgrddf55",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/MazE.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/MazE.zip"],
+    "services": [],
     "flag": "flag{4ed5a17ee7aeb95fcf12a3b96a9d4e6f}"
   },
   {
@@ -1315,10 +1315,10 @@
     "category": ["Week4", "Reverse"],
     "tags": ["Week4", "Reverse"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/PlzDebugMe.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{U_@r4_r4v4r54_m@s74r}"
   },
   {
@@ -1328,8 +1328,8 @@
     "category": ["Week4", "Reverse"],
     "tags": ["Week4", "Reverse"],
     "author": "Ajarbox",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/OVO.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/OVO.zip"],
+    "services": [],
     "flag": "flag{00000001400EF508}"
   },
   {
@@ -1339,8 +1339,8 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "unk",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_blindsql2",
         "ports": [80],
@@ -1356,8 +1356,8 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "gdd",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_ezcms",
         "ports": [80],
@@ -1373,8 +1373,8 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "caef11",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_yincangdemima",
         "ports": [8080],
@@ -1390,8 +1390,8 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "CH0ico",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_chocolate",
         "ports": [80],
@@ -1407,10 +1407,10 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "D1anash1ba",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/ezpollute.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_ezpollute",
         "ports": [3000],
@@ -1426,10 +1426,10 @@
     "category": ["Week4", "Web"],
     "tags": ["Week4", "Web"],
     "author": "Cnily03",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week4/pangbai4.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week4_pangbai4",
         "ports": [8000],
@@ -1445,10 +1445,10 @@
     "category": ["Week5", "Crypto"],
     "tags": ["Week5", "Crypto"],
     "author": "jingyi",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/easy_ecc.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{This_is_the_last_crypto_}"
   },
   {
@@ -1458,10 +1458,10 @@
     "category": ["Week5", "Crypto"],
     "tags": ["Week5", "Crypto"],
     "author": "saga131",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAcmd5.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{th1s_1s_my_k3y:adm0n120xbfab06114aa460b85135659e359fe443f9d91950ca95cbb2cbd6f88453e2b08b}"
   },
   {
@@ -1471,10 +1471,10 @@
     "category": ["Week5", "Crypto"],
     "tags": ["Week5", "Crypto"],
     "author": "jingyi",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/no_e_w5.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{No_course_e_can_play}"
   },
   {
@@ -1484,10 +1484,10 @@
     "category": ["Week5", "Crypto"],
     "tags": ["Week5", "Crypto"],
     "author": "Zechariah",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/learn_and_use.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{W1Sh_you_Bec0me_an_excelL3nt_crypt0G2@pher}"
   },
   {
@@ -1497,10 +1497,10 @@
     "category": ["Week5", "Crypto"],
     "tags": ["Week5", "Crypto"],
     "author": "saga131",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/RSAgege.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{u_are_@_master_of_latt1ce_Crypt0gr@phy}"
   },
   {
@@ -1510,10 +1510,10 @@
     "category": ["Week5", "Misc"],
     "tags": ["Week5", "Misc"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/PlzLoveMe.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{giveMeloveNoWloveNoW}"
   },
   {
@@ -1523,8 +1523,8 @@
     "category": ["Week5", "Misc"],
     "tags": ["Week5", "Misc"],
     "author": "unk",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_pyjail",
         "ports": [9999],
@@ -1540,10 +1540,10 @@
     "category": ["Week5", "Misc"],
     "tags": ["Week5", "Misc"],
     "author": "w3nx1z1",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/zipmaster.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{ecebbd61-2bb9-4eda-b4ca-f24b895be2e3}"
   },
   {
@@ -1553,10 +1553,10 @@
     "category": ["Week5", "Misc"],
     "tags": ["Week5", "Misc"],
     "author": "椰奶",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/iwanna_rust.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_iwannarust",
         "ports": [9999],
@@ -1572,10 +1572,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["Week5", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/C_or_CPP.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_corcpp",
         "ports": [9999],
@@ -1591,10 +1591,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["Week5", "Pwn"],
     "author": "sekiro",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/EldenRing.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_eldenring",
         "ports": [9999],
@@ -1610,10 +1610,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["Week5", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/No_Output.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_nooutput",
         "ports": [9999],
@@ -1629,10 +1629,10 @@
     "category": ["Week5", "Pwn"],
     "tags": ["Week5", "Pwn"],
     "author": "inkey",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/Simple_Shellcode.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_simpleshellcode",
         "ports": [9999],
@@ -1648,8 +1648,8 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "tgrddf55",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/MY_ARM.zip"],
+    "services": [],
     "flag": "flag{ARM__@rch1t3ctuRe_-n3eds_-t0__be_-deBugged__us1ng-_QEMU__!}"
   },
   {
@@ -1659,8 +1659,8 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "0xA1pha",
-    "attachment": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/lock.zip"],
-    "environment": [],
+    "attachments": ["https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/lock.zip"],
+    "services": [],
     "flag": "flag{d6cf50e2736849b4ba21}"
   },
   {
@@ -1670,10 +1670,10 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "a",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/jun-junkcode.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{G00d_jOb_!_7h1s_i5_nOt_0nIy_junkc0d3}"
   },
   {
@@ -1683,10 +1683,10 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "PangBai",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/ohn_flutter.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{U_@r4_F1u774r_r4_m@ster}"
   },
   {
@@ -1696,10 +1696,10 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "straw",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra2.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{W0w_y0u_$01v3_VM!!}"
   },
   {
@@ -1709,10 +1709,10 @@
     "category": ["Week5", "Reverse"],
     "tags": ["Week5", "Reverse"],
     "author": "straw",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai-terra3.zip"
     ],
-    "environment": [],
+    "services": [],
     "flag": "flag{Sw1ft_$0_funny!}"
   },
   {
@@ -1722,8 +1722,8 @@
     "category": ["Week5", "Web"],
     "tags": ["Week5", "Web"],
     "author": "AsaL1n",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_popchain",
         "ports": [80],
@@ -1739,10 +1739,10 @@
     "category": ["Week5", "Web"],
     "tags": ["Week5", "Web"],
     "author": "Cnily03",
-    "attachment": [
+    "attachments": [
       "https://github.com/project-newstar/newstar-ctf-2024/releases/download/attachment-week5/pangbai5.zip"
     ],
-    "environment": [
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_pangbai5",
         "ports": [3000],
@@ -1758,8 +1758,8 @@
     "category": ["Week5", "Web"],
     "tags": ["Week5", "Web"],
     "author": "AsaL1n",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_choupiwangzhan",
         "ports": [80],
@@ -1775,8 +1775,8 @@
     "category": ["Week5", "Web"],
     "tags": ["Week5", "Web"],
     "author": "Zacarx",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_ezredis",
         "ports": [80],
@@ -1792,8 +1792,8 @@
     "category": ["Week5", "Web"],
     "tags": ["Week5", "Web"],
     "author": "unk",
-    "attachment": [],
-    "environment": [
+    "attachments": [],
+    "services": [
       {
         "image": "docker.io/openctf/newstar-2024:week5_sqlshell",
         "ports": [80],

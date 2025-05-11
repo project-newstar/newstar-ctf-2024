@@ -25,11 +25,11 @@ interface Metadata {
   id: number | string; // must be unique
   name: string;
   description: string;
-  category: string[];
+  category: string[];  // sorted based on hierarchical relationship
   tags: string[];
   author: string;
-  attachment: string[];
-  environment: {
+  attachments: string[];
+  services: {
     image: string;     // remote image url, can use `docker pull` to download
     ports: number[];   // ports to be exposed in the container
     type: "tcp" | "http"
