@@ -1,4 +1,4 @@
-# Misc - Week1
+# Misc - Week 1
 
 ## decompress（校内赛道）
 

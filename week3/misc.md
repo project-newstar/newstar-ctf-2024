@@ -1,4 +1,4 @@
-# Misc - Week3
+# Misc - Week 3
 
 ## AmazingGame
 

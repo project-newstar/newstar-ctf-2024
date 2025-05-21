@@ -1,4 +1,4 @@
-# Pwn - Week2
+# Pwn - Week 2
 
 ## Ez_fmt
 

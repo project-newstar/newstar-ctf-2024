@@ -1,4 +1,4 @@
-# Pwn - Week1
+# Pwn - Week 1
 
 ## Game
 
