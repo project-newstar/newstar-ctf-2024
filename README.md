@@ -22,20 +22,47 @@ It has the following structure:
 
 ```typescript
 interface Metadata {
-  id: number | string; // must be unique
+  id: number | string;    // must be unique
   name: string;
   description: string;
-  category: string[];  // sorted based on hierarchical relationship
+  category: string[];     // sorted based on hierarchical relationship
   tags: string[];
-  author: string;
-  attachments: string[];
+  author: string;         // empty string means unknown or anonymous
+  attachments: string[] | { name: string; url: string }[];
   services: {
-    image: string;     // remote image url, can use `docker pull` to download
-    ports: number[];   // ports to be exposed in the container
-    type: "tcp" | "http"
+    // service name, also taken as the host of the container, default means random
+    name?: string;
+    // remote image url, can use `docker pull` to download
+    image: string;
+    // ports to be exposed in the container
+    exposes?: {
+      port: number;                 // port number
+      type: "tcp" | "udp" | "http"  // protocol type, `http` means taking tcp proxy (e.g. frp)
+    }[];
+    // environment variables
+    environment?: {
+      [key: string]: string | null; // `null` means use `answer` as the value
+    };
+    // names of services that this service depends on
+    depends_on?: string[];
+    // entrypoint of the service
+    entrypoint?: string;
+    // command to run the service
+    command?: string;
+    // VLAN ID, default means default VLAN
+    vlan?: string;
+    // whether the service can access the internet, default means any
+    internet?: boolean;
   }[];
-  flag: string | null; // `null` means dynamic flag
-  // extra fields, can be customized according to specific needs
+  answer: string | null;  // `null` means dynamic generated answer
+
+  /* optional fields */
+  difficulty?: number;
+  hints?: string[];          // hints for the challenge
+  hidden?: boolean;          // whether the challenge is hidden
+  score?: number | number[]; // static score or coefficients of dynamic score algorithm
+
+  /* extra fields, can be customized according to specific needs */
   extra?: Record<string, any>;
 }[];
 
