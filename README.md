@@ -22,16 +22,16 @@ It has the following structure:
 
 ```typescript
 interface Metadata {
-  id: number | string;    // must be unique
+  id: number | string;   // must be unique
   name: string;
   description: string;
-  category: string[];     // sorted based on hierarchical relationship
+  category: string[];    // sorted based on hierarchical relationship
   tags: string[];
-  author: string;         // empty string means unknown or anonymous
+  author: string;        // empty string means unknown or anonymous
   attachments: string[] | { name: string; url: string }[];
   services: {
-    // service name, also taken as the host of the container, default means random
-    name?: string;
+    // service name id, must be unique
+    name: string;
     // remote image url, can use `docker pull` to download
     image: string;
     // ports to be exposed in the container
@@ -41,29 +41,47 @@ interface Metadata {
     }[];
     // environment variables
     environment?: {
-      [key: string]: string | null; // `null` means use `answer` as the value
+      [key: string]: string | null; // `null` means use non-static or refs value (e.g. `answer`)
     };
+    // the hostnames of this service, other services can access it by these hostnames
+    hosts?: string[];
     // names of services that this service depends on
     depends_on?: string[];
     // entrypoint of the service
-    entrypoint?: string;
+    entrypoint?: string[];
     // command to run the service
-    command?: string;
+    command?: string[];
     // VLAN ID, default means default VLAN
     vlan?: string;
     // whether the service can access the internet, default means any
     internet?: boolean;
   }[];
-  answer: string | null;  // `null` means dynamic generated answer
+  answer: string | null; // `null` means dynamic generated answer
 
   /* optional fields */
-  difficulty?: number;
-  hints?: string[];          // hints for the challenge
-  hidden?: boolean;          // whether the challenge is hidden
-  score?: number | number[]; // static score or coefficients of dynamic score algorithm
 
-  /* extra fields, can be customized according to specific needs */
-  extra?: Record<string, any>;
+  difficulty?: number;
+  hints?: string[];      // hints for the challenge
+  hidden?: boolean;      // whether the challenge is hidden
+  score?: number;        // static score
+
+  /**
+   * Plugin ids, each plugin has its own schema (or add fields on the global metadata schema).
+   * This field is only reserved to avoid conflicts between fields, or categorize extra data.
+   */
+  plugins: {
+    id: string; // plugin id
+    data: {
+      [key: string]: any;
+    };
+  }[];
+
+  /**
+   * Extra fields, can be customized according to specific needs, mostly for human-readable data.
+   */
+  extra?: {
+    [key: string]: any;
+  };
 }[];
 
 type Metapack = Metadata[];
